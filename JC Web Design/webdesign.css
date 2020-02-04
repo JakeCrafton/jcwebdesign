@@ -1,0 +1,33 @@
+body {
+    font-family: 'Play', sans-serif;
+    background: whitesmoke;
+}
+
+#navbarMain {
+    text-transform: uppercase;
+}
+
+html {
+    height: 100%;
+}
+
+.jumbotron {
+    background: url(https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=707&q=80);
+    background-position: center;
+    background-size: cover;
+    color: whitesmoke;
+    padding-top: 25%;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+form {
+    text-align: center;
+    background: url(https://images.unsplash.com/photo-1516738901171-8eb4fc13bd20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+    background-position: center;
+    background-size: cover;
+    color: whitesmoke;
+}
+
